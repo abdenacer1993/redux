@@ -1,0 +1,14 @@
+.containeradd{
+    margin-left: 200px;
+    
+    justify-content: center;
+    gap: 10px;
+
+    
+}
+.addbtn{
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
